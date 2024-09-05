@@ -1,0 +1,36 @@
+John Doe
+101
+Manager
+50000
+1234567890
+22
+Jane Smith
+102
+Assistant
+35000
+9876543210
+18
+Emily Johnson
+103
+Clerk
+30000
+5551234567
+20
+Michael Brown
+104
+Technician
+45000
+6667778888
+25
+Sarah Davis
+105
+HR Specialist
+40000
+9998887777
+19
+Rocky
+2341
+Waiter
+10000
+9812209987
+0

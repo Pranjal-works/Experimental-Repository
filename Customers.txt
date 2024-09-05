@@ -1,0 +1,36 @@
+Name:               pc
+Mobile no:          437927349
+AADHAR no:          54854584933
+Stay nights:        8
+Payment type:       UPI
+Number of people:   3
+Total amount:       20000
+Date of arrival :   592024
+Date of departure : 1392024
+Name:               gc
+Mobile no:          5749383943
+AADHAR no:          378384398549
+Stay nights:        6
+Payment type:       UPI
+Number of people:   3
+Total amount:       15000
+Date of arrival :   592024
+Date of departure : 1192024
+Name:               pc
+Mobile no:          8552423478493
+AADHAR no:          85442354489234389
+Stay nights:        5
+Payment type:       UPI
+Number of people:   3
+Total amount:       12500
+Date of arrival :   592024
+Date of departure : 1092024
+Name:               pd
+Mobile no:          214356354
+AADHAR no:          34453532456
+Stay nights:        6
+Payment type:       UPI
+Number of people:   3
+Total amount:       15000
+Date of arrival :   592024
+Date of departure : 1192024
